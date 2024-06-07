@@ -1,0 +1,2 @@
+# ejspratice
+basic ejs
